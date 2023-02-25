@@ -4,7 +4,7 @@ This is a simple web application for calculating Body Mass Index (BMI) using Jav
 # How to Use
 Clone this repository to your local machine.
 ```
-git clone https://github.com/your-username/bmi-calculator.git
+git clone 
 ```
 Open the index.html file in your web browser.
 
